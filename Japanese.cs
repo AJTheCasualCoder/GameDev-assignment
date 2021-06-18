@@ -16,8 +16,6 @@ namespace LanguageGame
         //variables
         int correctAnswer;
         int questionNum = 1;
-        int score;
-        int percentage;
         int totalQuestions;
 
         public Japanese()
